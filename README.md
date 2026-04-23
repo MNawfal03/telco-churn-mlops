@@ -52,13 +52,3 @@ Pour ce projet, nous avons privilégié le **Recall** (Sensibilité). En entrepr
   ```bash
   streamlit run app.py
    ```
-
-### 💡 Rappel pour la mise à jour sur GitHub :
-1. Ouvre ton terminal dans Vertex AI ou sur ton PC.
-2. Tape `nano README.md` pour éditer le fichier (ou utilise l'interface graphique de GitHub).
-3. Colle ce texte.
-4. Sauvegarde et fais ton push :
-   ```bash
-   git add README.md
-   git commit -m "docs: final update of business metrics and structure"
-   git push origin main
