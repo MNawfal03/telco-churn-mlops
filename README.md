@@ -46,11 +46,12 @@ Pour ce projet, nous avons privilégié le **Recall** (Sensibilité). En entrepr
 2. **Installer les dépendances** :
   ```bash
   pip install -r requirements.txt
+  ```
 
 3. **Lancer l'application** :
   ```bash
   streamlit run app.py
-
+   ```
 
 ### 💡 Rappel pour la mise à jour sur GitHub :
 1. Ouvre ton terminal dans Vertex AI ou sur ton PC.
